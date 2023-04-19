@@ -349,7 +349,10 @@ span {
 @media screen and (max-width: 1300px) {
     /*hero2-block-lefn for Mobile*/
     .hero2-block-left h2 {
-        margin-left: 43px;}
+    margin-left: 61px;
+    padding-top: 36px;
+    text-align: center;
+    width: 223px;}
     }
 .title2 {
     font-family: 'Yeseva One';
